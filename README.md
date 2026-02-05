@@ -1,23 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=500&color=E60023&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Lahari+Venkatesh+Yegi;Computer+Science+Engineer;Full-Stack+Developer;Data+%26+Problem+Driven+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=500&color=E60023&center=true&vCenter=true&width=750&lines=Hi%2C+I+am+Lahari+Venkatesh+Yegi;Computer+Science+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Building+Impactful+Software" />
 </h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💻 Computer Science Engineer | ⚡ Problem Solver
+  🚀 Full-Stack Developer | 📊 Data Science Enthusiast | 💻 Computer Science Engineer
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a **highly motivated Computer Science Engineer** with hands-on experience building **production-ready full-stack applications** and **data-driven systems**.
+I am a **PreFinal Year Computer Science Student** with strong interests in **Full-Stack Development** and **Data Science**.  
+I enjoy building **production-ready applications** and extracting **meaningful insights from data** to solve real-world problems.
 
-I focus on **impact**, not just implementation — turning requirements into **scalable, maintainable, real-world software**.
+I believe in **ownership, scalability, and impact** — not just writing code.
 
 - 🔥 Strong foundation in **DSA, OOP, DBMS, and system design**
-- 🧑‍💻 Experience delivering **client projects**
-- 🤝 Proven team player with leadership and ownership mindset
-- 📈 Obsessed with clean code, performance, and scalability
+- 📊 Hands-on experience in **Data Analysis, NLP, and Machine Learning**
+- 🧑‍💻 Delivered **client-facing applications**
+- 🤝 Strong team player with leadership mindset
 
 ---
 
@@ -25,7 +26,7 @@ I focus on **impact**, not just implementation — turning requirements into **s
 
 ### 💡 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,html,css,sql" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -38,6 +39,15 @@ I focus on **impact**, not just implementation — turning requirements into **s
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### 📊 Data Science & Analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-orange" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-yellow" />
+  <img src="https://img.shields.io/badge/NLP-Text%20Processing-red" />
+</p>
+
 ### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,jupyter" />
@@ -45,29 +55,55 @@ I focus on **impact**, not just implementation — turning requirements into **s
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🎶 ArtyFacets — Music Workshop Booking Platform
+*A full-stack client project*
 
-A **full-stack client project** built to enable seamless discovery and booking of music workshops.
-
-- Architected a **scalable MERN-based platform** using **Next.js and TypeScript**
-- Developed **RESTful APIs** with **Node.js & Express**, integrated with **MongoDB**
-- Implemented a responsive and user-friendly interface for workshop browsing and booking
+- Architected a **scalable MERN-based platform** using **Next.js & TypeScript**
+- Built **RESTful APIs** with **Node.js & Express**, integrated with **MongoDB**
+- Implemented a responsive UI for seamless workshop discovery and booking
 - Tested and validated backend APIs using **Postman**
-- Designed with extensibility for authentication, payments, and admin dashboards
+- Designed with extensibility for payments, authentication, and admin dashboards
 
 **Tech Stack:**  
 `Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB`
 
 ---
 
-## 📈 What Makes Me Stand Out
+### 🤖 NLP-Based FAQ Chatbot for Automated Customer Support
+*A data-driven NLP system to reduce manual support workload*
 
-- ✔ Aggressive problem-solving mindset  
-- ✔ End-to-end feature ownership  
-- ✔ Clean, scalable, production-ready code  
-- ✔ Strong communication & collaboration skills  
+- Built an **automated FAQ chatbot** handling **70–80% of recurring customer queries**
+- Implemented **text preprocessing pipelines** (tokenization, stopword removal, stemming)
+- Improved query-response accuracy by **~25%**
+- Trained and evaluated on **1,000+ FAQs** with **sub-second response times**
+
+**Tech Stack:**  
+`Python` `Pandas` `NumPy` `NLP` `Scikit-learn` `Flask`
+
+---
+
+### 📈 SEO Optimizer & Keyword Suggestion System
+*A data analytics project focused on search visibility*
+
+- Designed a **data-driven SEO optimization tool**
+- Improved keyword targeting and content structure, boosting **search visibility by 30–40%**
+- Optimized meta tags and URLs, increasing **click-through rates by ~20%**
+- Used analytical insights to align content with ranking factors
+
+**Tech Stack:**  
+`Python` `Pandas` `NumPy` `SEO Analytics` `Web Scraping`
+
+---
+
+## 📈 What Sets Me Apart
+
+- ✔ Strong **data-driven problem-solving mindset**
+- ✔ End-to-end project ownership
+- ✔ Clean, scalable, production-grade code
+- ✔ Clear communication & collaboration
+- ✔ Ability to bridge **software engineering and data science**
 
 ---
 
@@ -85,7 +121,7 @@ A **full-stack client project** built to enable seamless discovery and booking o
 ---
 
 <p align="center">
-  <strong>⚡ I build software that delivers real impact.</strong>
+  <strong>⚡ Full-Stack by skill. Data-Driven by mindset.</strong>
 </p>
 
-⭐ Explore my repositories — stars are always appreciated!
+⭐ Feel free to explore my repositories and drop a star!
